@@ -1,0 +1,15 @@
+{
+  "name": "am-pretty-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "A colorful syntax. Looks best in JavaScript.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/bjarneo/am-pretty-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
