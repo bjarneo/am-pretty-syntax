@@ -1,7 +1,7 @@
 {
   "name": "am-pretty-syntax",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "A colorful syntax. Looks best in JavaScript.",
   "keywords": [
     "syntax",
